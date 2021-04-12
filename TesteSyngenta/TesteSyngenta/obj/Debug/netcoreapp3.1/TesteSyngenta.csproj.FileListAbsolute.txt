@@ -1,0 +1,15 @@
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\bin\Debug\netcoreapp3.1\TesteSyngenta.exe
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\bin\Debug\netcoreapp3.1\TesteSyngenta.deps.json
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\bin\Debug\netcoreapp3.1\TesteSyngenta.runtimeconfig.json
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\bin\Debug\netcoreapp3.1\TesteSyngenta.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\bin\Debug\netcoreapp3.1\TesteSyngenta.dll
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\bin\Debug\netcoreapp3.1\TesteSyngenta.pdb
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.AssemblyInfo.cs
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.dll
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.pdb
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.genruntimeconfig.cache
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.Form1.resources
+C:\Users\Windows\source\repos\TesteSyngenta\TesteSyngenta\obj\Debug\netcoreapp3.1\TesteSyngenta.csproj.GenerateResource.cache
